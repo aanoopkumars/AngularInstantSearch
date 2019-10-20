@@ -1,0 +1,39 @@
+.searchPart {
+    width: 70%;
+    height: 40px;
+    margin: 2em auto;
+    padding-top: 1.5em;
+    background-color: antiquewhite;
+    text-align: center;
+}
+
+ .resultPart {
+     width: 70%;
+    // background-color: aqua;
+     margin: 2em auto;
+     padding: 1em 0;
+//     text-align: center;
+  }
+
+  .items{
+      background-color: azure;
+      margin: .5em;
+      padding: .1em;
+  }
+
+  .profNAME {
+      display: inline-block;
+      margin-top: .6em;
+  }
+
+  .profPIC {
+      width: 5%;
+      border-radius: 50%;
+      float: right;
+  }
+
+  .clearFix {
+      width: 100%;
+     // background-color: green;
+      clear: both;
+  }
